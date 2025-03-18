@@ -1,2 +1,2 @@
-# Eng-computa-o-python
-aulas sobre algoritmo em python, eng da computação.
+# Aulas de Python no curso de Engenharia da Computação
+aulas de algoritmos em python.
